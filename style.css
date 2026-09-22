@@ -1,0 +1,16 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  color: blue;
+}
+
+.box {
+  width: 300px;
+  padding: 20px;
+  height: 150px;
+  border: 2px solid #030303;
+  border-radius: 10px;
+  background-color: #f5f5f5;
+}
