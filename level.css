@@ -1,0 +1,119 @@
+body {
+  background-image:
+    linear-gradient(#00000055, #00000055), url("assets/level2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.button1 {
+  display: block;
+  margin: 25px auto;
+  padding: 50px 70px;
+  font-size: 20px;
+  width: 500px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  font-size: 25px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: whitesmoke;
+}
+.button2 {
+  display: block;
+  margin: 25px auto;
+  padding: 50px 70px;
+  font-size: 20px;
+  width: 500px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  font-size: 25px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: whitesmoke;
+}
+.button3 {
+  display: block;
+  margin: 25px auto;
+  padding: 50px 70px;
+  font-size: 20px;
+  width: 500px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  font-size: 25px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: whitesmoke;
+}
+.button4 {
+  display: block;
+  margin: 25px auto;
+  padding: 50px 70px;
+  font-size: 20px;
+  width: 500px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  font-size: 25px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: whitesmoke;
+}
+.button5 {
+  display: block;
+  margin: 25px auto;
+  padding: 50px 70px;
+  font-size: 20px;
+  width: 500px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  font-size: 25px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: whitesmoke;
+}
+.button6 {
+  display: block;
+  margin: 25px auto;
+  padding: 50px 70px;
+  font-size: 20px;
+  width: 500px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 20px;
+  font-size: 25px;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: whitesmoke;
+}
+.button1:hover,
+.button2:hover,
+.button3:hover,
+.button4:hover,
+.button5:hover,
+.button6:hover {
+  background: rgba(255, 255, 255, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  transition: 0.3s;
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  color: whitesmoke;
+  font-family: Georgia, serif;
+  font-weight: bold;
+}
